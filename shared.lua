@@ -1,0 +1,3 @@
+ROCKSDB = {
+    _DEBUG = false
+}
