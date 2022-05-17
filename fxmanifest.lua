@@ -8,7 +8,7 @@ description 'The RocksDB library provides a persistent key value store. Keys and
 version '7.1.2'
 
 shared_scripts {
-    'shared.js'
+    'shared.lua'
 }
 
-server_script 'lib/database.js'
+server_script 'lib/database.lua'
